@@ -1,3 +1,4 @@
 # Simon-Game
 Here's screenshot of the game :- 
-![image](https://user-images.githubusercontent.com/69806508/185732057-9c518e55-8255-410d-8a16-b24effe09e61.png)
+![image](https://user-images.githubusercontent.com/69806508/185732127-fa350bb5-9ec6-4467-81d3-512a390b93ae.png)
+
